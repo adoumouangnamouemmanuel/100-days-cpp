@@ -19,5 +19,7 @@ int main() {
 
     // Print the size of a float type
     cout << "Size of float: " << sizeof(float) << " bytes" << endl;
+    
+    return 0;
 }
 
