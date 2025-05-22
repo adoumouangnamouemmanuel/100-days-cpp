@@ -1,8 +1,8 @@
 #include <iostream>
 
-int _strlen(const char *s);
-
 using namespace std;
+
+int _strlen(const char *s);
 
 /**
  * main - check the code
