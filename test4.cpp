@@ -11,6 +11,7 @@ int main()
 	for(x=1; x<25; x++){
 		cout<<1+rand()%6<<endl;
 	}
+	cout<<"hello world!"<<endl;
 	
 //	system("pause>0");
 	
